@@ -1,0 +1,37 @@
+2020-03-22 16:15:34,900 -0400 [main] INFO  (StepDefinition.java:32) - ******Lunching Browser*******
+2020-03-22 16:15:37,901 -0400 [main] INFO  (StepDefinition.java:42) - ******opening URL*******
+2020-03-22 16:15:37,908 -0400 [main] INFO  (StepDefinition.java:51) - ******Getting Email & Password*******
+2020-03-22 16:15:38,286 -0400 [main] INFO  (StepDefinition.java:60) - ******Click on LogIn*******
+2020-03-22 16:15:50,204 -0400 [main] INFO  (StepDefinition.java:155) - ******Adding new Customer*******
+2020-03-22 16:16:00,016 -0400 [main] INFO  (StepDefinition.java:181) - ******Confirmation Msg*******
+2020-03-22 16:16:03,212 -0400 [main] INFO  (StepDefinition.java:102) - ******Closing Browser*******
+2020-03-22 16:16:04,949 -0400 [main] INFO  (StepDefinition.java:32) - ******Lunching Browser*******
+2020-03-22 16:16:06,600 -0400 [main] INFO  (StepDefinition.java:42) - ******opening URL*******
+2020-03-22 16:16:06,603 -0400 [main] INFO  (StepDefinition.java:51) - ******Getting Email & Password*******
+2020-03-22 16:16:06,915 -0400 [main] INFO  (StepDefinition.java:60) - ******Click on LogIn*******
+2020-03-22 16:34:14,597 -0400 [main] INFO  (StepDefinition.java:49) - ******Lunching Browser*******
+2020-03-22 16:34:16,516 -0400 [main] INFO  (StepDefinition.java:67) - ******opening URL*******
+2020-03-22 16:34:16,519 -0400 [main] INFO  (StepDefinition.java:76) - ******Getting Email & Password*******
+2020-03-22 16:34:16,869 -0400 [main] INFO  (StepDefinition.java:85) - ******Click on LogIn*******
+2020-03-22 16:34:37,000 -0400 [main] INFO  (StepDefinition.java:180) - ******Adding new Customer*******
+2020-03-22 16:35:05,917 -0400 [main] INFO  (StepDefinition.java:206) - ******Confirmation Msg*******
+2020-03-22 16:35:11,103 -0400 [main] INFO  (StepDefinition.java:49) - ******Lunching Browser*******
+2020-03-22 16:35:12,748 -0400 [main] INFO  (StepDefinition.java:67) - ******opening URL*******
+2020-03-22 16:35:12,750 -0400 [main] INFO  (StepDefinition.java:76) - ******Getting Email & Password*******
+2020-03-22 16:35:13,118 -0400 [main] INFO  (StepDefinition.java:85) - ******Click on LogIn*******
+2020-03-22 16:43:13,607 -0400 [main] INFO  (StepDefinition.java:49) - ******Lunching Browser*******
+2020-03-22 16:43:15,172 -0400 [main] INFO  (StepDefinition.java:67) - ******opening URL*******
+2020-03-22 16:43:15,175 -0400 [main] INFO  (StepDefinition.java:76) - ******Getting Email & Password*******
+2020-03-22 16:43:15,524 -0400 [main] INFO  (StepDefinition.java:85) - ******Click on LogIn*******
+2020-03-22 16:43:22,479 -0400 [main] INFO  (StepDefinition.java:113) - ******Clicking on LogOut*******
+2020-03-22 16:43:27,216 -0400 [main] INFO  (StepDefinition.java:127) - ******Closing Browser*******
+2020-03-22 16:43:29,184 -0400 [main] INFO  (StepDefinition.java:49) - ******Lunching Browser*******
+2020-03-22 16:43:30,831 -0400 [main] INFO  (StepDefinition.java:67) - ******opening URL*******
+2020-03-22 16:43:30,833 -0400 [main] INFO  (StepDefinition.java:76) - ******Getting Email & Password*******
+2020-03-22 16:43:31,460 -0400 [main] INFO  (StepDefinition.java:85) - ******Click on LogIn*******
+2020-03-22 17:02:01,865 -0400 [main] INFO  (StepDefinition.java:50) - ******Lunching Browser*******
+2020-03-22 17:02:02,338 -0400 [main] INFO  (StepDefinition.java:68) - ******opening URL*******
+2020-03-22 17:02:02,342 -0400 [main] INFO  (StepDefinition.java:77) - ******Getting Email & Password*******
+2020-03-22 17:02:04,518 -0400 [main] INFO  (StepDefinition.java:50) - ******Lunching Browser*******
+2020-03-22 17:02:05,043 -0400 [main] INFO  (StepDefinition.java:68) - ******opening URL*******
+2020-03-22 17:02:05,046 -0400 [main] INFO  (StepDefinition.java:77) - ******Getting Email & Password*******
